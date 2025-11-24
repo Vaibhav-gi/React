@@ -1,0 +1,20 @@
+/* GLOBAL IMAGE FIX FOR ALL PNG/JPG/GIF */
+/* This will shrink every image automatically */
+img {
+  max-width: 250px;      /* size of image */
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Fix big preview images (like MouseDemo big phone) */
+.preview-large {
+  max-width: 350px;      /* Change this to resize preview */
+  height: auto;
+}
+
+/* Fix small thumbnail images */
+.preview-small {
+  max-width: 90px;       /* Size for left-side thumbnails */
+  height: auto;
+}

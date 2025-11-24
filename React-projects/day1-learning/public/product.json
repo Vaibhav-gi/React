@@ -1,0 +1,18 @@
+{
+  "title": "Apple iPhone 16 (Pink, 256GB)",
+  "price": 79900,
+  "image": "./iphone-pink.png",
+  "rating": {
+    "rate": 4.9,
+
+    "ratings": 164560,
+
+    "reviews": 4320
+  },
+  "offers": [
+    "Bank Offer 5% cashback on Axis Bank Flipkart Debit Card up to ₹750 T&C",
+    "Bank Offer 5% cashback on Flipkart SBI Credit Card up to ₹4,000 per calendar quarter T&C",
+    "Bank Offer 5% cashback on Flipkart Axis Bank Credit Card up to ₹4,000 per statement quarter T&C",
+    "EMI cashback on Flipkart Axis Bank Credit Card up to ₹4,000 per statement quarter T&C"
+  ]
+}
